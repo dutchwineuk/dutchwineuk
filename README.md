@@ -1,7 +1,6 @@
-- Hi, I’m @dutchwineuk
-- Hobby programmer python
-- How to reach me dutchwineuk@gmail.com
-- Fun fact: I'm not Dutch!
+- @dutchwineuk
+- Hobby stuff
+- dutchwineuk@gmail.com
 
 <!---
 dutchwineuk/dutchwineuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
